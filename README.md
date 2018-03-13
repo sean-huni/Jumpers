@@ -20,4 +20,16 @@ These are the basics that you might find useful to get going.
 
     **`sudo dpkg --install virtualbox-5.2_5.2.8-121009_Ubuntu_zesty_amd64.deb`**
  
- 
+4. Clone the Jumpers project & cd into the Jumpers directory.
+
+    **`git clone https://github.com/sean-huni/Jumpers.git && cd Jumpers/`**
+
+5. Execute the vagrant cmd.
+
+    **`vagrant up`**
+    
+6. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
+
+    Example: **`vagrant ssh manager`**
+    
+# Congratualations you've just created your first virtual-servers embedded with docker within!!!
