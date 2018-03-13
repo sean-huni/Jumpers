@@ -32,4 +32,4 @@ These are the basics that you might find useful to get going.
 
     Example: **`vagrant ssh manager`**
     
-# Congratualations you've just created your first virtual-servers embedded with docker within!!!
+## Congratualations you've just created your first virtual-servers embedded with docker within!!!
