@@ -33,7 +33,7 @@ These are the basics that you might find useful to get going.
 
     **`vagrant box update`**
 
-6. Execute the vagrant cmd.
+6. Execute the vagrant cmd to upgrade/update vagrant.
 
     **`vagrant up`**
     
