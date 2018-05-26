@@ -44,5 +44,7 @@ These are the basics that you might find useful to get going.
 8. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
 
     Example: **`vagrant ssh manager`**
+
+9. Checkout some quick-reference guide: [Cheatsheet !!!] (https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
     
 ### Congratualations you've created your virtual-servers embedded with docker within!!!
