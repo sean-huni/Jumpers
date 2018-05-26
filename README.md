@@ -29,11 +29,15 @@ These are the basics that you might find useful to get going.
 
     **`git clone https://github.com/sean-huni/Jumpers.git && cd Jumpers/`**
 
-5. Execute the vagrant cmd.
+5. Upgrade Vagrant if necessary.
+
+    **`vagrant box update`**
+
+6. Execute the vagrant cmd.
 
     **`vagrant up`**
     
-6. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
+7. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
 
     Example: **`vagrant ssh manager`**
     
