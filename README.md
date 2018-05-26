@@ -36,8 +36,12 @@ These are the basics that you might find useful to get going.
 6. Execute the vagrant cmd to boot-up vagrant. **Note: Vagrant may take a while to boot-up...**
 
     **`vagrant up`**
+
+7. Check the status of the vagrant boxes.
+
+    **'vagrant global-status | grep -i jumpers'** 
     
-7. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
+8. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
 
     Example: **`vagrant ssh manager`**
     
