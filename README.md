@@ -48,3 +48,8 @@ These are the basics that you might find useful to get going.
 9. Checkout some quick-reference guide: [Cheatsheet !!!](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
     
 ### Congratualations you've created your virtual-servers embedded with docker within!!!
+
+# Credits
+   Acknowledging usage of other Software-Engineers' work.
+	1. [Monica Gangwar](https://github.com/monicagangwar/docker-swarm-vagrant)
+	2. [Micah Wood](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
