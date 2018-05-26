@@ -1,5 +1,5 @@
 # Jumpers
-'Jumpers' is a Vagrant project that is meant to help devs/ops spawn virtual servers on the fly & focus on the task at hand, instead of wasting valuable time on covering up the steep learning-curve, downloading, installing & configuring virtual servers.
+'Jumpers' is a Vagrant project that is meant to help devs/ops spawn virtual servers on the fly & focus on the task at hand, instead of wasting valuable time on covering up the steep learning-curve, downloading, installing & configuring virtual servers. Think of this project as a jump-start for setting-up the v-servers required to play with Docker-Swarm or Kubernetes
 
 ## Prerequisites
 - Linux Ubuntu OS.
