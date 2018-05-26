@@ -33,7 +33,7 @@ These are the basics that you might find useful to get going.
 
     **`vagrant box update`**
 
-6. Execute the vagrant cmd to upgrade/update vagrant.
+6. Execute the vagrant cmd to boot-up vagrant. **Note: Vagrant may take a while to boot-up...**
 
     **`vagrant up`**
     
