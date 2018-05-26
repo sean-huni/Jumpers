@@ -31,7 +31,7 @@ These are the basics that you might find useful to get going.
 
 5. Upgrade Vagrant if necessary.
 
-    **`vagrant box update`**
+    **`. vagrant-update-all-boxes.sh`**
 
 6. Execute the vagrant cmd to boot-up vagrant. **Note: Vagrant may take a while to boot-up...**
 
