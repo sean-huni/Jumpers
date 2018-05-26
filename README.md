@@ -15,21 +15,33 @@ These are the basics that you might find useful to get going.
 
 2. Download Virtualbox. **Note: Check for latest version.**
 
-    **`wget https://download.virtualbox.org/virtualbox/5.2.8/virtualbox-5.2_5.2.8-121009~Ubuntu~zesty_amd64.deb`**
+    **`wget https://download.virtualbox.org/virtualbox/5.2.12/virtualbox-5.2_5.2.12-122591~Ubuntu~bionic_amd64.deb`**
  
 3. Install Virtualbox. **Note: Check for latest version.**
 
-    **`sudo dpkg --install virtualbox-5.2_5.2.8-121009_Ubuntu_zesty_amd64.deb`**
+    **`sudo dpkg --install virtualbox-5.2_5.2.12-122591~Ubuntu~bionic_amd64.deb`**
+    
+    Missing dependencies? Don't worry, just execute:
+    
+    **`sudo apt-get install -f`**
  
 4. Clone the Jumpers project & cd into the Jumpers directory.
 
     **`git clone https://github.com/sean-huni/Jumpers.git && cd Jumpers/`**
 
-5. Execute the vagrant cmd.
+5. Upgrade Vagrant if necessary.
+
+    **`vagrant box update`**
+
+6. Execute the vagrant cmd to boot-up vagrant. **Note: Vagrant may take a while to boot-up...**
 
     **`vagrant up`**
+
+7. Check the status of the vagrant boxes.
+
+    **'vagrant global-status | grep -i jumpers'** 
     
-6. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
+8. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
 
     Example: **`vagrant ssh manager`**
     
