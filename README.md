@@ -39,7 +39,7 @@ These are the basics that you might find useful to get going.
 
 7. Check the status of the vagrant boxes.
 
-    **'vagrant global-status | grep -i jumpers'** 
+    **`vagrant global-status | grep -i jumpers`** 
     
 8. ssh into any one of the nodes (manager, worker-1, worker-2, worker-3)
 
