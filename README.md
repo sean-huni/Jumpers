@@ -45,6 +45,6 @@ These are the basics that you might find useful to get going.
 
     Example: **`vagrant ssh manager`**
 
-9. Checkout some quick-reference guide: [Cheatsheet !!!] (https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
+9. Checkout some quick-reference guide: [Cheatsheet !!!](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
     
 ### Congratualations you've created your virtual-servers embedded with docker within!!!
