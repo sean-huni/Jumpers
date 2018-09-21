@@ -15,11 +15,11 @@ These are the basics that you might find useful to get going.
 
 2. Download Virtualbox. **Note: Check for latest version.**
 
-    **`wget https://download.virtualbox.org/virtualbox/5.2.12/virtualbox-5.2_5.2.12-122591~Ubuntu~bionic_amd64.deb`**
+    **`wget https://download.virtualbox.org/virtualbox/5.2.18/virtualbox-5.2_5.2.18-124319~Ubuntu~bionic_amd64.deb`**
  
 3. Install Virtualbox. **Note: Check for latest version.**
 
-    **`sudo dpkg --install virtualbox-5.2_5.2.12-122591~Ubuntu~bionic_amd64.deb`**
+    **`sudo dpkg --install virtualbox-5.2_5.2.18-124319~Ubuntu~bionic_amd64.deb`**
     
     Missing dependencies? Don't worry, just execute:
     
@@ -31,7 +31,7 @@ These are the basics that you might find useful to get going.
 
 5. Upgrade Vagrant if necessary.
 
-    **`. vagrant-update-all-boxes.sh`**
+    **`./vagrant-update-all-boxes.sh`**
 
 6. Execute the vagrant cmd to boot-up vagrant. **Note: Vagrant may take a while to boot-up...**
 
