@@ -8,4 +8,5 @@ sudo apt-get install -y \
   curl \
   software-properties-common
 sudo apt-get install -y docker.io
+sudo apt install -y docker-compose
 sudo apt-get update -y
